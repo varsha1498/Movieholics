@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+    android:background="#000000"
+android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/photo_image_view_1"
+                android:scaleType="centerCrop"
+                android:src="@drawable/golmaal1"
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:layout_weight="1"
+
+                />
+
+            <ImageView
+                android:id="@+id/photo_image_view_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/secret"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:text="golmaal again"
+                android:layout_marginEnd="5dp"
+                android:onClick="submitOrder"
+                android:layout_weight="1" />
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text="secret superstar"
+                android:layout_marginRight="2dp"
+                android:onClick="submitOrder"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/photo_image_view_3"
+                android:scaleType="centerCrop"
+                android:src="@drawable/jiajia"
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:layout_weight="1"
+
+                />
+
+            <ImageView
+                android:id="@+id/photo_image_view_4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:layout_weight="1"
+                android:src="@drawable/chef" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:text="jia aur jia"
+                android:layout_marginEnd="5dp"
+                android:onClick="submitOrder"
+                android:layout_weight="1" />
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="190dp"
+                android:layout_height="match_parent"
+                android:text="chef"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp"
+                android:onClick="submitOrder" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/photo_image_view_5"
+                android:scaleType="centerCrop"
+                android:src="@drawable/judwaa"
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:layout_weight="1"
+                />
+
+            <ImageView
+                android:id="@+id/photo_image_view_6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:layout_weight="1"
+                android:src="@drawable/rukh" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="190dp"
+                android:layout_marginEnd="5dp"
+                android:layout_height="wrap_content"
+                android:text="judwaa 2"
+                android:onClick="submitOrder"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="190dp"
+                android:layout_height="match_parent"
+                android:text="rukh"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp"
+                android:onClick="submitOrder" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

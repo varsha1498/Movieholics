@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    android:background="@drawable/texture2"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/texture2"
+        >
+
+
+        <TextView
+            android:id="@+id/text_upcoming"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_="@+id/imageView"
+            android:layout_alignParentStart="true"
+            android:paddingTop="30dp"
+            android:layout_alignParentTop="true"
+            android:text="UPCOMING MOVIES"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="#F44336"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="370dp"
+    android:src="@drawable/upfinal"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:id="@+id/imageView" />
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:text="MOVIES currently Rolling !!!"
+    android:id="@+id/button_1"
+    android:background="#D32F2F"
+    android:onClick="moviesAvailable"
+    android:layout_below="@+id/imageView"
+    android:layout_marginBottom="2dp"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="100dp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:background="#D32F2F"
+            android:text="Book Now !!!"
+            android:id="@+id/button_2"
+            android:onClick="orderNow"
+            android:layout_below="@+id/button_1"
+            android:layout_marginBottom="40dp"
+            android:layout_alignParentStart="true"
+            />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="COMING SOON..."
+        android:background="#D32F2F"
+        android:textAppearance="@style/TextAppearance.AppCompat.Notification.Title" />
+
+</RelativeLayout>
+
+
+    </ScrollView>

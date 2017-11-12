@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51e10f15162797a8ac26df99c5a03e4b0ab6af9b">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1c91442cbccb942709a8ebac898f2f4b8ce0123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\406b7d1012f2c9b5a4d992c58dc6ac3f5496bbc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f8ca3044145eae75b97bd4084cf6bf47ede7050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\e3ee2ea3ab744e07f638b321f5229c6e1d19d22e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faedac28c258ac35733afad310d3fa04363b4aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\f6aa0ea98720759effcd8bb92f3a4bbb1f2c1127\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_125b67011c47e39e7433e698d6aa2224222202a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2fb181fc12809799dcc3ada22438305b7303676a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\6d1c0af58ef666bb61ca39e35325ffa0cb1c45a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cebe19e2fe7e2a66e7eb7bca8f963ec750bae79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\39a3e1b34b5143ee51e78ff2d848fb96668c98b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbbcf2bf54623f22c90084c05743c65467d5abe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\f2b2970281f59ede41081e76d1e555088868acc1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ff6d0b23bcd7eb6e7d9f8295ca5862531d47f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\58d4540386d4a4187776e5cc6fa2706ee2a4345a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42852ad2139a4c0422da90da40ce404dca333ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d78bc2b6f97c530bb9c3bd75a1e77fe31bd50daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\2ae7290723d821952b0d8a8e8be0869b699878b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bb6fc473d147e2e36a72fd7905649b7d9cc9534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_7dc31b3a0ec25b72b91b24d5037302ef9177f6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\c20ed981b2c782ad7828597247d51fb9f6210596\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_557cb38dab2ba0cdeb5edf3cf83232e2b3d97175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kriti Shreshtha\.android\build-cache\96c40b43906487bfc8e034abcc43aa8b6519d87e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Kriti Shreshtha\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58770d1e74ceb0d70dd214470a4232c62acde46f\classes.dex" />
+    </item>
+
+</items>
